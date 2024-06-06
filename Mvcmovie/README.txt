@@ -80,6 +80,12 @@ input all data and show movies name
 ADD THE INDEX file 
 add rating try on brwoser iam able to add ratting succfully.
 
+1304 creat account on github
+     add all data 
+1355 add seeddata 
+
+
+
 
 
 
