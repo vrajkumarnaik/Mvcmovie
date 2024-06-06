@@ -80,9 +80,12 @@ input all data and show movies name
 ADD THE INDEX file 
 add rating try on brwoser iam able to add ratting succfully.
 
-1304 creat account on github
-     add all data 
-1355 add seeddata 
+1304 complated step 9 and 10
+13023 creat account on github
+     delete all movie name
+1355 add seeddata in model
+1415 add all data (movie name,Relese Date, price, Rating)
+    than push all data
 
 
 
